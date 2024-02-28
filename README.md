@@ -9,8 +9,8 @@
 </br>
 
 <div align="center">
-  <p>- 🌱 I’m currently learning **React, Express**</p>
-  <p>- ⚡ Fun fact: I'm also a music producer :D</p>
+  <p>- 🌱 I’m currently learning <strong>React, Express</strong></p>
+  <p>- ⚡ Fun fact: I'm also a music producer</p>
 </div>
 
 </br>
