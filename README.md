@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&pause=100&random=false&width=435&lines=Hi+there%2C+fellow+traveller+!+👋;+I'm+Ny+Toavina+Rasamimanana!;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&pause=100&random=false&width=435&lines=Hi+there%2C+fellow+traveller+!+👋;+I'm+Ny+Toavina+Rasamimanana!;">
+  </a>
 </h1>
 
 <h3 align="center">A developer and designer from Madagascar</h3>
